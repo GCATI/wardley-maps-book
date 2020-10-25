@@ -12,4 +12,3 @@ Contributions are cool, and also very welcome.  There is a [code of conduct](COD
 * Fix xref rendering on .mobi (Kindle) file generation - it doesn't work
 * Replace the formulae image in chapter 19 with the latex equivalent (https://github.com/asciidoctor/asciidoctor-latex)
 * Change the type-setting so that paragraphs in the ```.mobi``` output aren't indented
-* Add a Travis build
